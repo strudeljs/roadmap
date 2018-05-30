@@ -21,6 +21,12 @@
 
 ## Extensions
 
+### Mobx
+
+* Status: beta
+* Goal: State management for Strudel components
+* Support for https://github.com/patrick-steele-idem/morphdom
+
 ### CLI
 
 ### Dev Tools
