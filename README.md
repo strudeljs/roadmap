@@ -8,13 +8,24 @@
 * Various improvements regarding DOM handling
 * Code structure refactoring
 * Support for mixins
+* Enhancements for core decorators - Event
 
-### 1.0
+### 0.8
+
+* Planned release: July 2018
+
+### 0.9
 
 * Planned release: August 2018
 * Stability improvements
+* Performance tests and optimisation
+
+### 1.0
+
+* Planned release: September 2018
 * Finished documentation
 * Eslint configuration
+* Official styleguide
 
 ### Backlog
 * Component tree
