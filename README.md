@@ -45,7 +45,7 @@
 * Planned release: August 2018
 * Component properties in Inspector
 * Event debugger
-* Component tree
+* Component tree inspector
 * Metrics 
 
 ### Style guide
