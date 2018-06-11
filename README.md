@@ -43,6 +43,10 @@
 ### Dev Tools
 
 * Planned release: August 2018
+* Component properties in Inspector
+* Event debugger
+* Component tree
+* Metrics 
 
 ### Style guide
 
