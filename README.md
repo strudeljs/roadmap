@@ -30,6 +30,8 @@
 
 ### Backlog
 * Component tree
+* RxJS support
+* Utils like viewport tracking, scrollspy etc.
 
 ## Extensions
 
@@ -61,3 +63,4 @@
 
 * Planned release: December 2018
 * Goal: Offer code snippets for common scenarios
+
