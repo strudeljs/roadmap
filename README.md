@@ -32,11 +32,13 @@
 
 ## Extensions
 
-### Mobx
+### State
 
 * Status: beta
 * Goal: State management for Strudel components
-* Support for https://github.com/patrick-steele-idem/morphdom
+* Mobx or other
+* Dynamic components via https://github.com/patrick-steele-idem/morphdom / https://github.com/google/incremental-dom
+* State decorators
 
 ### CLI
 
@@ -52,6 +54,7 @@
 
 * Planned release: December 2018
 * Goal: Establish recommended way of writing code
+* Dedicated section on website
 
 ### Cookbook
 
