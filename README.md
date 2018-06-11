@@ -53,7 +53,7 @@
 
 ### Style guide
 
-* Planned release: December 2018
+* Planned release: September 2018
 * Goal: Establish recommended way of writing code
 * Dedicated section on website
 
