@@ -44,6 +44,10 @@
 * State decorators
 
 ### CLI
+* Status: 1.0
+* Parcel example
+* Finished theme template
+* Finished clientlib template
 
 ### Dev Tools
 
