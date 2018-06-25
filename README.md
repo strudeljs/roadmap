@@ -2,18 +2,11 @@
 
 ## Core
 
-### 0.7
-
-* Planned release: June 2018
-* Various improvements regarding DOM handling
-* Code structure refactoring
-* Support for mixins
-* Enhancements for core decorators - Event
-
 ### 0.8
 
 * Planned release: July 2018
-* TBD
+* Container decorator
+* Class mixins 
 
 ### 0.9
 
