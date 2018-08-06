@@ -2,12 +2,6 @@
 
 ## Core
 
-### 0.8
-
-* Planned release: July 2018
-* Container decorator
-* Class mixins 
-
 ### 0.9
 
 * Planned release: August 2018
@@ -25,6 +19,7 @@
 * Component tree
 * RxJS support
 * Utils like viewport tracking, scrollspy etc.
+* Class mixins 
 
 ## Extensions
 
