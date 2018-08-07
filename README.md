@@ -5,20 +5,19 @@
 ### 0.9
 
 * Planned release: August 2018
-* Stability improvements
 * Performance tests and optimisation
 
 ### 1.0
 
 * Planned release: September 2018
 * Finished documentation
-* Eslint configuration
-* Official styleguide
+* Stability improvements
 
 ### Backlog
 * Component tree
 * RxJS support
 * Utils like viewport tracking, scrollspy etc.
+* Eslint configuration
 * Class mixins 
 
 ## Extensions
