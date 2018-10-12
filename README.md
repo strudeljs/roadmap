@@ -8,7 +8,8 @@
 * Finished documentation
 * Performance tests and optimisation
 * createDecorator utility function
-* Babel 7 support
+* Babel 7 support (new decorator spec alignment)
+* Types / Typescript
 * Stability improvements
 
 ### Backlog, ideas
