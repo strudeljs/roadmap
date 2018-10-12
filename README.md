@@ -2,19 +2,16 @@
 
 ## Core
 
-### 0.9
-
-* Planned release: August 2018
-* Performance tests and optimisation
-
 ### 1.0
 
-* Planned release: September 2018
+* Planned release: December 2018
 * Finished documentation
+* Performance tests and optimisation
+* createDecorator utility function
+* Babel 7 support
 * Stability improvements
 
-### Backlog
-* Component tree
+### Backlog, ideas
 * RxJS support
 * Utils like viewport tracking, scrollspy etc.
 * Class mixins 
@@ -29,19 +26,19 @@
 
 ### Dev Tools
 
-* Planned release: September 2018
+* Planned release: December 2018
 * Component properties in Inspector
-* Event debugger
+* ~~Event debugger~~
 * Component tree inspector
 
 ### Style guide
 
-* Planned release: Q4 2018
+* Planned release: Q1 2019
 * Goal: Establish recommended way of writing code
 * Dedicated section on website
 
 ### Cookbook
 
-* Planned release: Q4 2018
+* Planned release: Q1 2019
 * Goal: Offer code snippets for common scenarios
 
