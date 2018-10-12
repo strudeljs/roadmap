@@ -15,6 +15,7 @@
 ### Backlog, ideas
 * RxJS support
 * Utils like viewport tracking, scrollspy etc.
+* Reactive decorators to reduce imperative DOM modification
 * Class mixins 
 
 ## Extensions
