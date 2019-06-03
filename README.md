@@ -4,12 +4,11 @@
 
 ### 1.0
 
-* Planned release: December 2018
+* Planned release: June 2019
 * Finished documentation
 * Performance tests and optimisation
 * createDecorator utility function
 * Babel 7 support (new decorator spec alignment)
-* Types / Typescript
 * Stability improvements
 
 ### Backlog, ideas
@@ -17,6 +16,7 @@
 * Utils like viewport tracking, scrollspy etc.
 * Reactive decorators to reduce imperative DOM modification
 * Class mixins 
+* Types / Typescript
 
 ## Extensions
 
