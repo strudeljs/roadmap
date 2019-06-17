@@ -7,7 +7,7 @@
 * Planned release: June 2019
 * Finished documentation
 * Performance tests and optimisation
-* createDecorator utility function
+* ~createDecorator utility function~
 * Babel 7 support (new decorator spec alignment)
 * Stability improvements
 
