@@ -12,6 +12,8 @@
 
 ### 1.1
 
+TBD
+
 ### Backlog, ideas
 * RxJS support
 * Utils like viewport tracking, scrollspy etc.
