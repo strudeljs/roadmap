@@ -4,12 +4,13 @@
 
 ### 1.0
 
-* Planned release: June 2019
-* Finished documentation
-* Performance tests and optimisation
+* Planned release: July/August 2019
+* ~Finished documentation~
+* ~Performance tests and optimisation~
 * ~createDecorator utility function~
-* Babel 7 support (new decorator spec alignment)
-* Stability improvements
+* ~Stability improvements~
+
+### 1.1
 
 ### Backlog, ideas
 * RxJS support
@@ -17,6 +18,7 @@
 * Reactive decorators to reduce imperative DOM modification
 * Class mixins 
 * Types / Typescript
+* Babel 7 support (new decorator spec alignment)
 
 ## Extensions
 
@@ -28,19 +30,13 @@
 
 ### Dev Tools
 
-* Planned release: December 2018
+* Planned release: August 2019
 * Component properties in Inspector
 * ~~Event debugger~~
 * Component tree inspector
 
-### Style guide
-
-* Planned release: Q1 2019
-* Goal: Establish recommended way of writing code
-* Dedicated section on website
-
 ### Cookbook
 
-* Planned release: Q1 2019
+* Planned release: Q4 2019
 * Goal: Offer code snippets for common scenarios
 
